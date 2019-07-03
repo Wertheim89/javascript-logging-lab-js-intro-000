@@ -1,2 +1,3 @@
 console.console.error("what the hell am i doing")
-console.console.log(console.error("STOP"););
+console.console.log("i dont get this");
+console.console.warn("STill dont get this");
