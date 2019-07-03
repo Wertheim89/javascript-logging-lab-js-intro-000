@@ -1,3 +1,3 @@
-console.console.error("what the hell am i doing")
-console.console.log("i dont get this")
-console.console.warn("STill dont get this")
+console.error("what the hell am i doing")
+console.log("i dont get this")
+console.warn("STill dont get this")
